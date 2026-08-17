@@ -62,13 +62,13 @@ and they are the only ones explicitly built for the SC2 version that bots use.
    A map name is its filename without the `.SC2Map` extension. You can skip this and pass
    `--map <name>` on every run instead; the runner will tell you if it has nothing to pick from.
 
-When a new season starts, the pool changes — download the new pack and update `MAP_POOL`.
+When a new season starts, the pool may change — download the new pack and update `MAP_POOL`.
 
 ---
 
 ## Quick start
 
-1. **Create your repository** — click **Use this template** at the top of this page to create your own repository, then clone yours.
+1. **Create your repository** — click **Use this template** at the top of this page, then clone it.
 
    ```bash
    git clone <your-repository-url>
