@@ -105,7 +105,7 @@ BOT_RACE = MyBot.RACE  # Options: Terran, Protoss, Zerg, Random
 #   Linux:   ~/StarCraftII/Maps
 #
 # Not used for ladder games - the ladder supplies the map.
-MAP_POOL = []
+MAP_POOL = ["IncorporealAIE_v4", "LeyLinesAIE_v3", "MagannathaAIE_v2", "PersephoneAIE_v4", "PylonAIE_v4", "TorchesAIE_v4", "UltraloveAIE_v2"]
 
 # ===== OPPONENT SETTINGS =====
 # Computer opponent settings (for local games)
